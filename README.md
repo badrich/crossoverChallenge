@@ -1,2 +1,2 @@
 # crossoverChallenge
-This is an app using Express, MongoDB and angular-fullstack generator
+This is an app using ES6, MongoDB, Express, AngularJS, and Node.
